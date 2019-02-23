@@ -15,7 +15,6 @@ Hope you'll have some fun !<br>
 Here is the Ludum Dare's link, if interested:<br>
 <b>https://ldjam.com/events/ludum-dare/40/space
   
-  
-  Thanks,
-  
-  Damoy
+Play:<br>
+Download Sâce+-.jar<br>
+Double-click on it and enjoy !<br>
