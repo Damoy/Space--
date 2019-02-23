@@ -1,5 +1,5 @@
 # Space+-
-<b>My 40th Ludum Dare compo' entry.<b><br>
+<b>My 40th Ludum Dare compo' entry.</b><br>
 Escape and/or kill the zombies and solve the labyrinth !
 
 
@@ -13,8 +13,8 @@ The idea was that the map becomes bigger and bigger but your move possibilities 
 Hope you'll have some fun !<br>
 
 Here is the Ludum Dare's link, if interested:<br>
-<b>https://ldjam.com/events/ludum-dare/40/space
+<b>https://ldjam.com/events/ludum-dare/40/space</b>
   
-Play:<br>
-Download Sâce+-.jar<br>
-Double-click on it and enjoy !<br>
+<h3>Play</h3>
+<ul><li>1. Download jar file.</li>
+  <li>2. Double-click on it and enjoy !</li></ul>
